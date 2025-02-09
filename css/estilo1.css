@@ -1,0 +1,188 @@
+.cabecalho{
+	height: 15%;
+	width: 100%;
+	background-color: white;
+
+	display: flex; 
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.filho1{
+	height: 90%;
+	width: 30%;
+	background-color: white;
+	margin-left: 2vh;
+
+	img{
+		height: 100%;
+		width: 70%;
+	}	
+}
+.filho2{
+	height: 47%;
+	width: 16%;
+	background-color: white;
+	margin-right: 12vh;
+
+	display: flex;
+	justify-content: center;
+
+	border-color: #004C94;
+	border-style: solid;
+
+	border-radius: 2px;
+	background: #f5f5f5;
+	box-shadow:  5px 5px 10px #d3d3d3,
+	             -5px -5px 10px #ffffff;
+
+}
+a{
+	text-decoration: none ;
+	color: #004C94;
+	font-size: 160%;
+	text-align: center;
+	font-family: Inter, arial, sans-serif;
+	margin-top: 1vh;
+}
+.container{
+	height: 110%;
+	width: 100%;
+	background-color: white;
+
+	display: flex; 
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+.titulo{
+	height: 8%;
+	width: 70%;
+	background-color: white;
+	margin-top: 3vh;
+
+	color: #004C94;
+	font-size: 140%;
+	text-align: center;
+	font-family: Inter, arial, sans-serif;
+	font-weight: bold;
+}
+.titulo2{
+	height: 8%;
+	width: 50%;
+	background-color:white;
+	align-self: start;
+
+	color: #004C94;
+	font-size: 120%;
+	text-align: center;
+	font-family: Inter, arial, sans-serif;
+	
+}
+.caixa{
+	height: 37%;
+	width: 100%;
+	background-color: white;
+
+	display: flex; 
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	align-items: center;
+
+}
+.filho3{
+	height: 90%;
+	width: 20%;
+	background-color:white;
+
+	border-color: #004C94;
+	border-style: solid;
+
+	display: flex; 
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	align-items: flex-start;
+
+}
+.pp{
+	color: black;
+	font-size: 130%;
+	font-family: Inter, arial, sans-serif;
+	text-align: justify;
+	margin: 1vh;
+	align-self: start;
+}
+.filho4{
+	height: 16%;
+	width: 100%;
+	background-color:white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.p{
+	color: black;
+	font-size: 150%;
+	font-family: Inter, arial, sans-serif;
+	font-weight: bold;
+}
+.caixa2{
+	height:40% ;
+	width: 100%;
+	background-color: white;
+
+	display: flex; 
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	align-items: flex-start;
+
+}
+.filho5{
+	height: 90%;
+	width: 64%;
+	background-color: green;
+	margin-top: 2vh;
+
+	img{
+		height: 100%;
+		width: 100%;
+	}
+}
+.filho6{
+	height: 90%;
+	width: 25%;
+	background-color:white;
+	margin-top: 2vh;
+
+	border-color: #004C94;
+	border-style: solid;
+}
+footer{
+	height: 15%;
+	width: 100%;
+	background-color: white;
+}
+.container2{
+	height: 80%;
+	width: 50%;
+	background-color: white;
+
+	display: flex; 
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-self: center;
+	justify-self: center;
+}
+.rodape{
+	color:#004C94;
+	font-size: 140%;
+	font-family: arial;
+	text-align: center;
+}
